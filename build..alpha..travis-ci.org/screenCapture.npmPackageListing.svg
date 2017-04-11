@@ -1,154 +1,154 @@
 <svg height="2414" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2414" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-11 16:35:29 +0000  2198337 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-11 16:35:29 +0000     3582 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-11 16:35:29 +0000     1083 bytes  LICENSE.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-11 16:35:29 +0000     1646 bytes  MAINTAINING.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-11 16:35:29 +0000     2800 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-11 16:35:29 +0000      328 bytes  bower.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-11 16:35:29 +0000      547 bytes  composer.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-11 16:35:29 +0000       70 bytes  config.jshintrc</tspan>
-<tspan x="10" y="154">  8.  2017-04-11 16:35:29 +0000   484055 bytes  dist/Chart.bundle.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-11 16:35:29 +0000   201689 bytes  dist/Chart.bundle.min.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-11 16:35:29 +0000   360597 bytes  dist/Chart.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-11 16:35:29 +0000   152661 bytes  dist/Chart.min.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-11 16:35:29 +0000     4143 bytes  docs/00-Getting-Started.md</tspan>
-<tspan x="10" y="234"> 13.  2017-04-11 16:35:29 +0000    27894 bytes  docs/01-Chart-Configuration.md</tspan>
-<tspan x="10" y="250"> 14.  2017-04-11 16:35:29 +0000    19997 bytes  docs/02-Scales.md</tspan>
-<tspan x="10" y="266"> 15.  2017-04-11 16:35:29 +0000     8214 bytes  docs/03-Line-Chart.md</tspan>
-<tspan x="10" y="282"> 16.  2017-04-11 16:35:29 +0000     6915 bytes  docs/04-Bar-Chart.md</tspan>
-<tspan x="10" y="298"> 17.  2017-04-11 16:35:29 +0000     6086 bytes  docs/05-Radar-Chart.md</tspan>
-<tspan x="10" y="314"> 18.  2017-04-11 16:35:29 +0000     4030 bytes  docs/06-Polar-Area-Chart.md</tspan>
-<tspan x="10" y="330"> 19.  2017-04-11 16:35:29 +0000     4515 bytes  docs/07-Pie-Doughnut-Chart.md</tspan>
-<tspan x="10" y="346"> 20.  2017-04-11 16:35:29 +0000     3223 bytes  docs/08-Bubble-Chart.md</tspan>
-<tspan x="10" y="362"> 21.  2017-04-11 16:35:29 +0000    16639 bytes  docs/09-Advanced.md</tspan>
-<tspan x="10" y="378"> 22.  2017-04-11 16:35:29 +0000     5691 bytes  docs/10-Notes.md</tspan>
-<tspan x="10" y="394"> 23.  2017-04-11 16:35:29 +0000     6428 bytes  gulpfile.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-11 16:35:29 +0000      471 bytes  karma.conf.ci.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-11 16:35:29 +0000      261 bytes  karma.conf.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-11 16:35:29 +0000      860 bytes  karma.coverage.conf.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-11 16:35:29 +0000     3315 bytes  package.json</tspan>
-<tspan x="10" y="474"> 28.  2017-04-11 16:35:29 +0000     3394 bytes  samples/animation/progress-bar.html</tspan>
-<tspan x="10" y="490"> 29.  2017-04-11 16:35:29 +0000     5578 bytes  samples/bar/bar-horizontal.html</tspan>
-<tspan x="10" y="506"> 30.  2017-04-11 16:35:29 +0000     3459 bytes  samples/bar/bar-multi-axis.html</tspan>
-<tspan x="10" y="522"> 31.  2017-04-11 16:35:29 +0000     3361 bytes  samples/bar/bar-stacked-group.html</tspan>
-<tspan x="10" y="538"> 32.  2017-04-11 16:35:29 +0000     3247 bytes  samples/bar/bar-stacked.html</tspan>
-<tspan x="10" y="554"> 33.  2017-04-11 16:35:29 +0000     5108 bytes  samples/bar/bar.html</tspan>
-<tspan x="10" y="570"> 34.  2017-04-11 16:35:29 +0000     7003 bytes  samples/bubble.html</tspan>
-<tspan x="10" y="586"> 35.  2017-04-11 16:35:29 +0000     3203 bytes  samples/combo-bar-line.html</tspan>
-<tspan x="10" y="602"> 36.  2017-04-11 16:35:29 +0000     4811 bytes  samples/data_labelling.html</tspan>
-<tspan x="10" y="618"> 37.  2017-04-11 16:35:29 +0000     4325 bytes  samples/doughnut.html</tspan>
-<tspan x="10" y="634"> 38.  2017-04-11 16:35:29 +0000     3815 bytes  samples/legend/pointstyle.html</tspan>
-<tspan x="10" y="650"> 39.  2017-04-11 16:35:29 +0000     3955 bytes  samples/legend/positions.html</tspan>
-<tspan x="10" y="666"> 40.  2017-04-11 16:35:29 +0000     4703 bytes  samples/line/different-point-sizes.html</tspan>
-<tspan x="10" y="682"> 41.  2017-04-11 16:35:29 +0000     3148 bytes  samples/line/interpolation-modes.html</tspan>
-<tspan x="10" y="698"> 42.  2017-04-11 16:35:29 +0000     3375 bytes  samples/line/line-multi-axis.html</tspan>
-<tspan x="10" y="714"> 43.  2017-04-11 16:35:29 +0000     2869 bytes  samples/line/line-skip-points.html</tspan>
-<tspan x="10" y="730"> 44.  2017-04-11 16:35:29 +0000     5212 bytes  samples/line/line-stacked-area.html</tspan>
-<tspan x="10" y="746"> 45.  2017-04-11 16:35:29 +0000     2938 bytes  samples/line/line-stepped.html</tspan>
-<tspan x="10" y="762"> 46.  2017-04-11 16:35:29 +0000     3625 bytes  samples/line/line-styles.html</tspan>
-<tspan x="10" y="778"> 47.  2017-04-11 16:35:29 +0000     5554 bytes  samples/line/line.html</tspan>
-<tspan x="10" y="794"> 48.  2017-04-11 16:35:29 +0000     2736 bytes  samples/line/point-styles.html</tspan>
-<tspan x="10" y="810"> 49.  2017-04-11 16:35:29 +0000     2815 bytes  samples/pie.html</tspan>
-<tspan x="10" y="826"> 50.  2017-04-11 16:35:29 +0000     3686 bytes  samples/polar-area.html</tspan>
-<tspan x="10" y="842"> 51.  2017-04-11 16:35:29 +0000     3386 bytes  samples/radar/radar-skip-points.html</tspan>
-<tspan x="10" y="858"> 52.  2017-04-11 16:35:29 +0000     4664 bytes  samples/radar/radar.html</tspan>
-<tspan x="10" y="874"> 53.  2017-04-11 16:35:29 +0000     3807 bytes  samples/scales/display-settings.html</tspan>
-<tspan x="10" y="890"> 54.  2017-04-11 16:35:29 +0000     3163 bytes  samples/scales/filtering-labels.html</tspan>
-<tspan x="10" y="906"> 55.  2017-04-11 16:35:29 +0000     2078 bytes  samples/scales/gridlines.html</tspan>
-<tspan x="10" y="922"> 56.  2017-04-11 16:35:29 +0000     2388 bytes  samples/scales/line-non-numeric-y.html</tspan>
-<tspan x="10" y="938"> 57.  2017-04-11 16:35:29 +0000     1814 bytes  samples/scales/linear/min-max-settings.html</tspan>
-<tspan x="10" y="954"> 58.  2017-04-11 16:35:29 +0000     5917 bytes  samples/scales/linear/step-size.html</tspan>
-<tspan x="10" y="970"> 59.  2017-04-11 16:35:29 +0000     2070 bytes  samples/scales/linear/suggested-min-max-settings\</tspan>
+<tspan x="10" y="26">  0.  2017-04-11 16:37:32 +0000  2198337 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-11 16:37:32 +0000     3582 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-11 16:37:32 +0000     1083 bytes  LICENSE.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-11 16:37:32 +0000     1646 bytes  MAINTAINING.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-11 16:37:32 +0000     2800 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-11 16:37:32 +0000      328 bytes  bower.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-11 16:37:32 +0000      547 bytes  composer.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-11 16:37:32 +0000       70 bytes  config.jshintrc</tspan>
+<tspan x="10" y="154">  8.  2017-04-11 16:37:32 +0000   484055 bytes  dist/Chart.bundle.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-11 16:37:32 +0000   201689 bytes  dist/Chart.bundle.min.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-11 16:37:32 +0000   360597 bytes  dist/Chart.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-11 16:37:32 +0000   152661 bytes  dist/Chart.min.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-11 16:37:32 +0000     4143 bytes  docs/00-Getting-Started.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-11 16:37:32 +0000    27894 bytes  docs/01-Chart-Configuration.md</tspan>
+<tspan x="10" y="250"> 14.  2017-04-11 16:37:32 +0000    19997 bytes  docs/02-Scales.md</tspan>
+<tspan x="10" y="266"> 15.  2017-04-11 16:37:32 +0000     8214 bytes  docs/03-Line-Chart.md</tspan>
+<tspan x="10" y="282"> 16.  2017-04-11 16:37:32 +0000     6915 bytes  docs/04-Bar-Chart.md</tspan>
+<tspan x="10" y="298"> 17.  2017-04-11 16:37:32 +0000     6086 bytes  docs/05-Radar-Chart.md</tspan>
+<tspan x="10" y="314"> 18.  2017-04-11 16:37:32 +0000     4030 bytes  docs/06-Polar-Area-Chart.md</tspan>
+<tspan x="10" y="330"> 19.  2017-04-11 16:37:32 +0000     4515 bytes  docs/07-Pie-Doughnut-Chart.md</tspan>
+<tspan x="10" y="346"> 20.  2017-04-11 16:37:32 +0000     3223 bytes  docs/08-Bubble-Chart.md</tspan>
+<tspan x="10" y="362"> 21.  2017-04-11 16:37:32 +0000    16639 bytes  docs/09-Advanced.md</tspan>
+<tspan x="10" y="378"> 22.  2017-04-11 16:37:32 +0000     5691 bytes  docs/10-Notes.md</tspan>
+<tspan x="10" y="394"> 23.  2017-04-11 16:37:32 +0000     6428 bytes  gulpfile.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-11 16:37:32 +0000      471 bytes  karma.conf.ci.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-11 16:37:32 +0000      261 bytes  karma.conf.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-11 16:37:32 +0000      860 bytes  karma.coverage.conf.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-11 16:37:32 +0000     3315 bytes  package.json</tspan>
+<tspan x="10" y="474"> 28.  2017-04-11 16:37:32 +0000     3394 bytes  samples/animation/progress-bar.html</tspan>
+<tspan x="10" y="490"> 29.  2017-04-11 16:37:32 +0000     5578 bytes  samples/bar/bar-horizontal.html</tspan>
+<tspan x="10" y="506"> 30.  2017-04-11 16:37:32 +0000     3459 bytes  samples/bar/bar-multi-axis.html</tspan>
+<tspan x="10" y="522"> 31.  2017-04-11 16:37:32 +0000     3361 bytes  samples/bar/bar-stacked-group.html</tspan>
+<tspan x="10" y="538"> 32.  2017-04-11 16:37:32 +0000     3247 bytes  samples/bar/bar-stacked.html</tspan>
+<tspan x="10" y="554"> 33.  2017-04-11 16:37:32 +0000     5108 bytes  samples/bar/bar.html</tspan>
+<tspan x="10" y="570"> 34.  2017-04-11 16:37:32 +0000     7003 bytes  samples/bubble.html</tspan>
+<tspan x="10" y="586"> 35.  2017-04-11 16:37:32 +0000     3203 bytes  samples/combo-bar-line.html</tspan>
+<tspan x="10" y="602"> 36.  2017-04-11 16:37:32 +0000     4811 bytes  samples/data_labelling.html</tspan>
+<tspan x="10" y="618"> 37.  2017-04-11 16:37:32 +0000     4325 bytes  samples/doughnut.html</tspan>
+<tspan x="10" y="634"> 38.  2017-04-11 16:37:32 +0000     3815 bytes  samples/legend/pointstyle.html</tspan>
+<tspan x="10" y="650"> 39.  2017-04-11 16:37:32 +0000     3955 bytes  samples/legend/positions.html</tspan>
+<tspan x="10" y="666"> 40.  2017-04-11 16:37:32 +0000     4703 bytes  samples/line/different-point-sizes.html</tspan>
+<tspan x="10" y="682"> 41.  2017-04-11 16:37:32 +0000     3148 bytes  samples/line/interpolation-modes.html</tspan>
+<tspan x="10" y="698"> 42.  2017-04-11 16:37:32 +0000     3375 bytes  samples/line/line-multi-axis.html</tspan>
+<tspan x="10" y="714"> 43.  2017-04-11 16:37:32 +0000     2869 bytes  samples/line/line-skip-points.html</tspan>
+<tspan x="10" y="730"> 44.  2017-04-11 16:37:32 +0000     5212 bytes  samples/line/line-stacked-area.html</tspan>
+<tspan x="10" y="746"> 45.  2017-04-11 16:37:32 +0000     2938 bytes  samples/line/line-stepped.html</tspan>
+<tspan x="10" y="762"> 46.  2017-04-11 16:37:32 +0000     3625 bytes  samples/line/line-styles.html</tspan>
+<tspan x="10" y="778"> 47.  2017-04-11 16:37:32 +0000     5554 bytes  samples/line/line.html</tspan>
+<tspan x="10" y="794"> 48.  2017-04-11 16:37:32 +0000     2736 bytes  samples/line/point-styles.html</tspan>
+<tspan x="10" y="810"> 49.  2017-04-11 16:37:32 +0000     2815 bytes  samples/pie.html</tspan>
+<tspan x="10" y="826"> 50.  2017-04-11 16:37:32 +0000     3686 bytes  samples/polar-area.html</tspan>
+<tspan x="10" y="842"> 51.  2017-04-11 16:37:32 +0000     3386 bytes  samples/radar/radar-skip-points.html</tspan>
+<tspan x="10" y="858"> 52.  2017-04-11 16:37:32 +0000     4664 bytes  samples/radar/radar.html</tspan>
+<tspan x="10" y="874"> 53.  2017-04-11 16:37:32 +0000     3807 bytes  samples/scales/display-settings.html</tspan>
+<tspan x="10" y="890"> 54.  2017-04-11 16:37:32 +0000     3163 bytes  samples/scales/filtering-labels.html</tspan>
+<tspan x="10" y="906"> 55.  2017-04-11 16:37:32 +0000     2078 bytes  samples/scales/gridlines.html</tspan>
+<tspan x="10" y="922"> 56.  2017-04-11 16:37:32 +0000     2388 bytes  samples/scales/line-non-numeric-y.html</tspan>
+<tspan x="10" y="938"> 57.  2017-04-11 16:37:32 +0000     1814 bytes  samples/scales/linear/min-max-settings.html</tspan>
+<tspan x="10" y="954"> 58.  2017-04-11 16:37:32 +0000     5917 bytes  samples/scales/linear/step-size.html</tspan>
+<tspan x="10" y="970"> 59.  2017-04-11 16:37:32 +0000     2070 bytes  samples/scales/linear/suggested-min-max-settings\</tspan>
 <tspan x="10" y="986">.html</tspan>
-<tspan x="10" y="1002"> 60.  2017-04-11 16:35:29 +0000     2829 bytes  samples/scales/logarithmic/line-logarithmic.html</tspan>
-<tspan x="10" y="1018"> 61.  2017-04-11 16:35:29 +0000     3229 bytes  samples/scales/logarithmic/scatter-logX.html</tspan>
-<tspan x="10" y="1034"> 62.  2017-04-11 16:35:29 +0000     2901 bytes  samples/scales/multiline-labels.html</tspan>
-<tspan x="10" y="1050"> 63.  2017-04-11 16:35:29 +0000     4575 bytes  samples/scales/time/combo-time-scale.html</tspan>
-<tspan x="10" y="1066"> 64.  2017-04-11 16:35:29 +0000     3549 bytes  samples/scales/time/line-time-point-data.html</tspan>
-<tspan x="10" y="1082"> 65.  2017-04-11 16:35:29 +0000     5258 bytes  samples/scales/time/line-time-scale.html</tspan>
-<tspan x="10" y="1098"> 66.  2017-04-11 16:35:29 +0000     3304 bytes  samples/scatter/scatter-multi-axis.html</tspan>
-<tspan x="10" y="1114"> 67.  2017-04-11 16:35:29 +0000     3508 bytes  samples/scatter/scatter.html</tspan>
-<tspan x="10" y="1130"> 68.  2017-04-11 16:35:29 +0000     3043 bytes  samples/tooltips/dataPoints-customTooltips.html</tspan>
-<tspan x="10" y="1146"> 69.  2017-04-11 16:35:29 +0000     2471 bytes  samples/tooltips/interaction-modes.html</tspan>
-<tspan x="10" y="1162"> 70.  2017-04-11 16:35:29 +0000     4197 bytes  samples/tooltips/line-customTooltips.html</tspan>
-<tspan x="10" y="1178"> 71.  2017-04-11 16:35:29 +0000     3363 bytes  samples/tooltips/pie-customTooltips.html</tspan>
-<tspan x="10" y="1194"> 72.  2017-04-11 16:35:29 +0000     1837 bytes  samples/tooltips/position-modes.html</tspan>
-<tspan x="10" y="1210"> 73.  2017-04-11 16:35:29 +0000     3597 bytes  samples/tooltips/tooltip-callbacks.html</tspan>
-<tspan x="10" y="1226"> 74.  2017-04-11 16:35:29 +0000      349 bytes  samples/utils.js</tspan>
-<tspan x="10" y="1242"> 75.  2017-04-11 16:35:29 +0000      952 bytes  scripts/release.sh</tspan>
-<tspan x="10" y="1258"> 76.  2017-04-11 16:35:29 +0000     1906 bytes  src/chart.js</tspan>
-<tspan x="10" y="1274"> 77.  2017-04-11 16:35:29 +0000      161 bytes  src/charts/Chart.Bar.js</tspan>
-<tspan x="10" y="1290"> 78.  2017-04-11 16:35:29 +0000      166 bytes  src/charts/Chart.Bubble.js</tspan>
-<tspan x="10" y="1306"> 79.  2017-04-11 16:35:29 +0000      171 bytes  src/charts/Chart.Doughnut.js</tspan>
-<tspan x="10" y="1322"> 80.  2017-04-11 16:35:29 +0000      163 bytes  src/charts/Chart.Line.js</tspan>
-<tspan x="10" y="1338"> 81.  2017-04-11 16:35:29 +0000      173 bytes  src/charts/Chart.PolarArea.js</tspan>
-<tspan x="10" y="1354"> 82.  2017-04-11 16:35:29 +0000      165 bytes  src/charts/Chart.Radar.js</tspan>
-<tspan x="10" y="1370"> 83.  2017-04-11 16:35:29 +0000      966 bytes  src/charts/Chart.Scatter.js</tspan>
-<tspan x="10" y="1386"> 84.  2017-04-11 16:35:29 +0000    17796 bytes  src/controllers/controller.bar.js</tspan>
-<tspan x="10" y="1402"> 85.  2017-04-11 16:35:29 +0000     3590 bytes  src/controllers/controller.bubble.js</tspan>
-<tspan x="10" y="1418"> 86.  2017-04-11 16:35:29 +0000     9958 bytes  src/controllers/controller.doughnut.js</tspan>
-<tspan x="10" y="1434"> 87.  2017-04-11 16:35:29 +0000    12295 bytes  src/controllers/controller.line.js</tspan>
-<tspan x="10" y="1450"> 88.  2017-04-11 16:35:29 +0000     6177 bytes  src/controllers/controller.polarArea.js</tspan>
-<tspan x="10" y="1466"> 89.  2017-04-11 16:35:29 +0000     7695 bytes  src/controllers/controller.radar.js</tspan>
-<tspan x="10" y="1482"> 90.  2017-04-11 16:35:29 +0000     4442 bytes  src/core/core.animation.js</tspan>
-<tspan x="10" y="1498"> 91.  2017-04-11 16:35:29 +0000     3253 bytes  src/core/core.canvasHelpers.js</tspan>
-<tspan x="10" y="1514"> 92.  2017-04-11 16:35:29 +0000    20013 bytes  src/core/core.controller.js</tspan>
-<tspan x="10" y="1530"> 93.  2017-04-11 16:35:29 +0000     7916 bytes  src/core/core.datasetController.js</tspan>
-<tspan x="10" y="1546"> 94.  2017-04-11 16:35:29 +0000     2124 bytes  src/core/core.element.js</tspan>
-<tspan x="10" y="1562"> 95.  2017-04-11 16:35:29 +0000    30212 bytes  src/core/core.helpers.js</tspan>
-<tspan x="10" y="1578"> 96.  2017-04-11 16:35:29 +0000     9758 bytes  src/core/core.interaction.js</tspan>
-<tspan x="10" y="1594"> 97.  2017-04-11 16:35:29 +0000     1462 bytes  src/core/core.js</tspan>
-<tspan x="10" y="1610"> 98.  2017-04-11 16:35:29 +0000    12948 bytes  src/core/core.layoutService.js</tspan>
-<tspan x="10" y="1626"> 99.  2017-04-11 16:35:29 +0000    15043 bytes  src/core/core.legend.js</tspan>
-<tspan x="10" y="1642">100.  2017-04-11 16:35:29 +0000    10672 bytes  src/core/core.plugin.js</tspan>
-<tspan x="10" y="1658">101.  2017-04-11 16:35:29 +0000    23032 bytes  src/core/core.scale.js</tspan>
-<tspan x="10" y="1674">102.  2017-04-11 16:35:29 +0000     1458 bytes  src/core/core.scaleService.js</tspan>
-<tspan x="10" y="1690">103.  2017-04-11 16:35:29 +0000     7026 bytes  src/core/core.ticks.js</tspan>
-<tspan x="10" y="1706">104.  2017-04-11 16:35:29 +0000     5392 bytes  src/core/core.title.js</tspan>
-<tspan x="10" y="1722">105.  2017-04-11 16:35:29 +0000    24503 bytes  src/core/core.tooltip.js</tspan>
-<tspan x="10" y="1738">106.  2017-04-11 16:35:29 +0000     2616 bytes  src/elements/element.arc.js</tspan>
-<tspan x="10" y="1754">107.  2017-04-11 16:35:29 +0000     5319 bytes  src/elements/element.line.js</tspan>
-<tspan x="10" y="1770">108.  2017-04-11 16:35:29 +0000     2855 bytes  src/elements/element.point.js</tspan>
-<tspan x="10" y="1786">109.  2017-04-11 16:35:29 +0000     5127 bytes  src/elements/element.rectangle.js</tspan>
-<tspan x="10" y="1802">110.  2017-04-11 16:35:29 +0000     8369 bytes  src/platforms/platform.dom.js</tspan>
-<tspan x="10" y="1818">111.  2017-04-11 16:35:29 +0000     2827 bytes  src/platforms/platform.js</tspan>
-<tspan x="10" y="1834">112.  2017-04-11 16:35:29 +0000     3729 bytes  src/scales/scale.category.js</tspan>
-<tspan x="10" y="1850">113.  2017-04-11 16:35:29 +0000     5501 bytes  src/scales/scale.linear.js</tspan>
-<tspan x="10" y="1866">114.  2017-04-11 16:35:29 +0000     2687 bytes  src/scales/scale.linearbase.js</tspan>
-<tspan x="10" y="1882">115.  2017-04-11 16:35:29 +0000     7138 bytes  src/scales/scale.logarithmic.js</tspan>
-<tspan x="10" y="1898">116.  2017-04-11 16:35:29 +0000    16228 bytes  src/scales/scale.radialLinear.js</tspan>
-<tspan x="10" y="1914">117.  2017-04-11 16:35:29 +0000    15712 bytes  src/scales/scale.time.js</tspan>
-<tspan x="10" y="1930">118.  2017-04-11 16:35:29 +0000    33684 bytes  test/controller.bar.tests.js</tspan>
-<tspan x="10" y="1946">119.  2017-04-11 16:35:29 +0000     9841 bytes  test/controller.bubble.tests.js</tspan>
-<tspan x="10" y="1962">120.  2017-04-11 16:35:29 +0000    10238 bytes  test/controller.doughnut.tests.js</tspan>
-<tspan x="10" y="1978">121.  2017-04-11 16:35:29 +0000    19160 bytes  test/controller.line.tests.js</tspan>
-<tspan x="10" y="1994">122.  2017-04-11 16:35:29 +0000    10097 bytes  test/controller.polarArea.tests.js</tspan>
-<tspan x="10" y="2010">123.  2017-04-11 16:35:29 +0000    14210 bytes  test/controller.radar.tests.js</tspan>
-<tspan x="10" y="2026">124.  2017-04-11 16:35:29 +0000    14960 bytes  test/core.controller.tests.js</tspan>
-<tspan x="10" y="2042">125.  2017-04-11 16:35:29 +0000     4143 bytes  test/core.datasetController.tests.js</tspan>
-<tspan x="10" y="2058">126.  2017-04-11 16:35:29 +0000     1287 bytes  test/core.element.tests.js</tspan>
-<tspan x="10" y="2074">127.  2017-04-11 16:35:29 +0000    23614 bytes  test/core.helpers.tests.js</tspan>
-<tspan x="10" y="2090">128.  2017-04-11 16:35:29 +0000    22064 bytes  test/core.interaction.tests.js</tspan>
-<tspan x="10" y="2106">129.  2017-04-11 16:35:29 +0000    10365 bytes  test/core.layoutService.tests.js</tspan>
-<tspan x="10" y="2122">130.  2017-04-11 16:35:29 +0000     9038 bytes  test/core.legend.tests.js</tspan>
-<tspan x="10" y="2138">131.  2017-04-11 16:35:29 +0000     8862 bytes  test/core.plugin.tests.js</tspan>
-<tspan x="10" y="2154">132.  2017-04-11 16:35:29 +0000      735 bytes  test/core.scaleService.tests.js</tspan>
-<tspan x="10" y="2170">133.  2017-04-11 16:35:29 +0000     5564 bytes  test/core.title.tests.js</tspan>
-<tspan x="10" y="2186">134.  2017-04-11 16:35:29 +0000    16999 bytes  test/core.tooltip.tests.js</tspan>
-<tspan x="10" y="2202">135.  2017-04-11 16:35:29 +0000     7485 bytes  test/defaultConfig.tests.js</tspan>
-<tspan x="10" y="2218">136.  2017-04-11 16:35:29 +0000     4320 bytes  test/element.arc.tests.js</tspan>
-<tspan x="10" y="2234">137.  2017-04-11 16:35:29 +0000    46706 bytes  test/element.line.tests.js</tspan>
-<tspan x="10" y="2250">138.  2017-04-11 16:35:29 +0000    10635 bytes  test/element.point.tests.js</tspan>
-<tspan x="10" y="2266">139.  2017-04-11 16:35:29 +0000     7389 bytes  test/element.rectangle.tests.js</tspan>
-<tspan x="10" y="2282">140.  2017-04-11 16:35:29 +0000     9611 bytes  test/mockContext.js</tspan>
-<tspan x="10" y="2298">141.  2017-04-11 16:35:29 +0000     8424 bytes  test/platform.dom.tests.js</tspan>
-<tspan x="10" y="2314">142.  2017-04-11 16:35:29 +0000    10140 bytes  test/scale.category.tests.js</tspan>
-<tspan x="10" y="2330">143.  2017-04-11 16:35:29 +0000    18299 bytes  test/scale.linear.tests.js</tspan>
-<tspan x="10" y="2346">144.  2017-04-11 16:35:29 +0000    18806 bytes  test/scale.logarithmic.tests.js</tspan>
-<tspan x="10" y="2362">145.  2017-04-11 16:35:29 +0000    10661 bytes  test/scale.radialLinear.tests.js</tspan>
-<tspan x="10" y="2378">146.  2017-04-11 16:35:29 +0000    14283 bytes  test/scale.time.tests.js</tspan>
-<tspan x="10" y="2394">147.  2017-04-11 16:35:29 +0000       64 bytes  thankyou.md</tspan>
+<tspan x="10" y="1002"> 60.  2017-04-11 16:37:32 +0000     2829 bytes  samples/scales/logarithmic/line-logarithmic.html</tspan>
+<tspan x="10" y="1018"> 61.  2017-04-11 16:37:32 +0000     3229 bytes  samples/scales/logarithmic/scatter-logX.html</tspan>
+<tspan x="10" y="1034"> 62.  2017-04-11 16:37:32 +0000     2901 bytes  samples/scales/multiline-labels.html</tspan>
+<tspan x="10" y="1050"> 63.  2017-04-11 16:37:32 +0000     4575 bytes  samples/scales/time/combo-time-scale.html</tspan>
+<tspan x="10" y="1066"> 64.  2017-04-11 16:37:32 +0000     3549 bytes  samples/scales/time/line-time-point-data.html</tspan>
+<tspan x="10" y="1082"> 65.  2017-04-11 16:37:32 +0000     5258 bytes  samples/scales/time/line-time-scale.html</tspan>
+<tspan x="10" y="1098"> 66.  2017-04-11 16:37:32 +0000     3304 bytes  samples/scatter/scatter-multi-axis.html</tspan>
+<tspan x="10" y="1114"> 67.  2017-04-11 16:37:32 +0000     3508 bytes  samples/scatter/scatter.html</tspan>
+<tspan x="10" y="1130"> 68.  2017-04-11 16:37:32 +0000     3043 bytes  samples/tooltips/dataPoints-customTooltips.html</tspan>
+<tspan x="10" y="1146"> 69.  2017-04-11 16:37:32 +0000     2471 bytes  samples/tooltips/interaction-modes.html</tspan>
+<tspan x="10" y="1162"> 70.  2017-04-11 16:37:32 +0000     4197 bytes  samples/tooltips/line-customTooltips.html</tspan>
+<tspan x="10" y="1178"> 71.  2017-04-11 16:37:32 +0000     3363 bytes  samples/tooltips/pie-customTooltips.html</tspan>
+<tspan x="10" y="1194"> 72.  2017-04-11 16:37:32 +0000     1837 bytes  samples/tooltips/position-modes.html</tspan>
+<tspan x="10" y="1210"> 73.  2017-04-11 16:37:32 +0000     3597 bytes  samples/tooltips/tooltip-callbacks.html</tspan>
+<tspan x="10" y="1226"> 74.  2017-04-11 16:37:32 +0000      349 bytes  samples/utils.js</tspan>
+<tspan x="10" y="1242"> 75.  2017-04-11 16:37:32 +0000      952 bytes  scripts/release.sh</tspan>
+<tspan x="10" y="1258"> 76.  2017-04-11 16:37:32 +0000     1906 bytes  src/chart.js</tspan>
+<tspan x="10" y="1274"> 77.  2017-04-11 16:37:32 +0000      161 bytes  src/charts/Chart.Bar.js</tspan>
+<tspan x="10" y="1290"> 78.  2017-04-11 16:37:32 +0000      166 bytes  src/charts/Chart.Bubble.js</tspan>
+<tspan x="10" y="1306"> 79.  2017-04-11 16:37:32 +0000      171 bytes  src/charts/Chart.Doughnut.js</tspan>
+<tspan x="10" y="1322"> 80.  2017-04-11 16:37:32 +0000      163 bytes  src/charts/Chart.Line.js</tspan>
+<tspan x="10" y="1338"> 81.  2017-04-11 16:37:32 +0000      173 bytes  src/charts/Chart.PolarArea.js</tspan>
+<tspan x="10" y="1354"> 82.  2017-04-11 16:37:32 +0000      165 bytes  src/charts/Chart.Radar.js</tspan>
+<tspan x="10" y="1370"> 83.  2017-04-11 16:37:32 +0000      966 bytes  src/charts/Chart.Scatter.js</tspan>
+<tspan x="10" y="1386"> 84.  2017-04-11 16:37:32 +0000    17796 bytes  src/controllers/controller.bar.js</tspan>
+<tspan x="10" y="1402"> 85.  2017-04-11 16:37:32 +0000     3590 bytes  src/controllers/controller.bubble.js</tspan>
+<tspan x="10" y="1418"> 86.  2017-04-11 16:37:32 +0000     9958 bytes  src/controllers/controller.doughnut.js</tspan>
+<tspan x="10" y="1434"> 87.  2017-04-11 16:37:32 +0000    12295 bytes  src/controllers/controller.line.js</tspan>
+<tspan x="10" y="1450"> 88.  2017-04-11 16:37:32 +0000     6177 bytes  src/controllers/controller.polarArea.js</tspan>
+<tspan x="10" y="1466"> 89.  2017-04-11 16:37:32 +0000     7695 bytes  src/controllers/controller.radar.js</tspan>
+<tspan x="10" y="1482"> 90.  2017-04-11 16:37:32 +0000     4442 bytes  src/core/core.animation.js</tspan>
+<tspan x="10" y="1498"> 91.  2017-04-11 16:37:32 +0000     3253 bytes  src/core/core.canvasHelpers.js</tspan>
+<tspan x="10" y="1514"> 92.  2017-04-11 16:37:32 +0000    20013 bytes  src/core/core.controller.js</tspan>
+<tspan x="10" y="1530"> 93.  2017-04-11 16:37:32 +0000     7916 bytes  src/core/core.datasetController.js</tspan>
+<tspan x="10" y="1546"> 94.  2017-04-11 16:37:32 +0000     2124 bytes  src/core/core.element.js</tspan>
+<tspan x="10" y="1562"> 95.  2017-04-11 16:37:32 +0000    30212 bytes  src/core/core.helpers.js</tspan>
+<tspan x="10" y="1578"> 96.  2017-04-11 16:37:32 +0000     9758 bytes  src/core/core.interaction.js</tspan>
+<tspan x="10" y="1594"> 97.  2017-04-11 16:37:32 +0000     1462 bytes  src/core/core.js</tspan>
+<tspan x="10" y="1610"> 98.  2017-04-11 16:37:32 +0000    12948 bytes  src/core/core.layoutService.js</tspan>
+<tspan x="10" y="1626"> 99.  2017-04-11 16:37:32 +0000    15043 bytes  src/core/core.legend.js</tspan>
+<tspan x="10" y="1642">100.  2017-04-11 16:37:32 +0000    10672 bytes  src/core/core.plugin.js</tspan>
+<tspan x="10" y="1658">101.  2017-04-11 16:37:32 +0000    23032 bytes  src/core/core.scale.js</tspan>
+<tspan x="10" y="1674">102.  2017-04-11 16:37:32 +0000     1458 bytes  src/core/core.scaleService.js</tspan>
+<tspan x="10" y="1690">103.  2017-04-11 16:37:32 +0000     7026 bytes  src/core/core.ticks.js</tspan>
+<tspan x="10" y="1706">104.  2017-04-11 16:37:32 +0000     5392 bytes  src/core/core.title.js</tspan>
+<tspan x="10" y="1722">105.  2017-04-11 16:37:32 +0000    24503 bytes  src/core/core.tooltip.js</tspan>
+<tspan x="10" y="1738">106.  2017-04-11 16:37:32 +0000     2616 bytes  src/elements/element.arc.js</tspan>
+<tspan x="10" y="1754">107.  2017-04-11 16:37:32 +0000     5319 bytes  src/elements/element.line.js</tspan>
+<tspan x="10" y="1770">108.  2017-04-11 16:37:32 +0000     2855 bytes  src/elements/element.point.js</tspan>
+<tspan x="10" y="1786">109.  2017-04-11 16:37:32 +0000     5127 bytes  src/elements/element.rectangle.js</tspan>
+<tspan x="10" y="1802">110.  2017-04-11 16:37:32 +0000     8369 bytes  src/platforms/platform.dom.js</tspan>
+<tspan x="10" y="1818">111.  2017-04-11 16:37:32 +0000     2827 bytes  src/platforms/platform.js</tspan>
+<tspan x="10" y="1834">112.  2017-04-11 16:37:32 +0000     3729 bytes  src/scales/scale.category.js</tspan>
+<tspan x="10" y="1850">113.  2017-04-11 16:37:32 +0000     5501 bytes  src/scales/scale.linear.js</tspan>
+<tspan x="10" y="1866">114.  2017-04-11 16:37:32 +0000     2687 bytes  src/scales/scale.linearbase.js</tspan>
+<tspan x="10" y="1882">115.  2017-04-11 16:37:32 +0000     7138 bytes  src/scales/scale.logarithmic.js</tspan>
+<tspan x="10" y="1898">116.  2017-04-11 16:37:32 +0000    16228 bytes  src/scales/scale.radialLinear.js</tspan>
+<tspan x="10" y="1914">117.  2017-04-11 16:37:32 +0000    15712 bytes  src/scales/scale.time.js</tspan>
+<tspan x="10" y="1930">118.  2017-04-11 16:37:32 +0000    33684 bytes  test/controller.bar.tests.js</tspan>
+<tspan x="10" y="1946">119.  2017-04-11 16:37:32 +0000     9841 bytes  test/controller.bubble.tests.js</tspan>
+<tspan x="10" y="1962">120.  2017-04-11 16:37:32 +0000    10238 bytes  test/controller.doughnut.tests.js</tspan>
+<tspan x="10" y="1978">121.  2017-04-11 16:37:32 +0000    19160 bytes  test/controller.line.tests.js</tspan>
+<tspan x="10" y="1994">122.  2017-04-11 16:37:32 +0000    10097 bytes  test/controller.polarArea.tests.js</tspan>
+<tspan x="10" y="2010">123.  2017-04-11 16:37:32 +0000    14210 bytes  test/controller.radar.tests.js</tspan>
+<tspan x="10" y="2026">124.  2017-04-11 16:37:32 +0000    14960 bytes  test/core.controller.tests.js</tspan>
+<tspan x="10" y="2042">125.  2017-04-11 16:37:32 +0000     4143 bytes  test/core.datasetController.tests.js</tspan>
+<tspan x="10" y="2058">126.  2017-04-11 16:37:32 +0000     1287 bytes  test/core.element.tests.js</tspan>
+<tspan x="10" y="2074">127.  2017-04-11 16:37:32 +0000    23614 bytes  test/core.helpers.tests.js</tspan>
+<tspan x="10" y="2090">128.  2017-04-11 16:37:32 +0000    22064 bytes  test/core.interaction.tests.js</tspan>
+<tspan x="10" y="2106">129.  2017-04-11 16:37:32 +0000    10365 bytes  test/core.layoutService.tests.js</tspan>
+<tspan x="10" y="2122">130.  2017-04-11 16:37:32 +0000     9038 bytes  test/core.legend.tests.js</tspan>
+<tspan x="10" y="2138">131.  2017-04-11 16:37:32 +0000     8862 bytes  test/core.plugin.tests.js</tspan>
+<tspan x="10" y="2154">132.  2017-04-11 16:37:32 +0000      735 bytes  test/core.scaleService.tests.js</tspan>
+<tspan x="10" y="2170">133.  2017-04-11 16:37:32 +0000     5564 bytes  test/core.title.tests.js</tspan>
+<tspan x="10" y="2186">134.  2017-04-11 16:37:32 +0000    16999 bytes  test/core.tooltip.tests.js</tspan>
+<tspan x="10" y="2202">135.  2017-04-11 16:37:32 +0000     7485 bytes  test/defaultConfig.tests.js</tspan>
+<tspan x="10" y="2218">136.  2017-04-11 16:37:32 +0000     4320 bytes  test/element.arc.tests.js</tspan>
+<tspan x="10" y="2234">137.  2017-04-11 16:37:32 +0000    46706 bytes  test/element.line.tests.js</tspan>
+<tspan x="10" y="2250">138.  2017-04-11 16:37:32 +0000    10635 bytes  test/element.point.tests.js</tspan>
+<tspan x="10" y="2266">139.  2017-04-11 16:37:32 +0000     7389 bytes  test/element.rectangle.tests.js</tspan>
+<tspan x="10" y="2282">140.  2017-04-11 16:37:32 +0000     9611 bytes  test/mockContext.js</tspan>
+<tspan x="10" y="2298">141.  2017-04-11 16:37:32 +0000     8424 bytes  test/platform.dom.tests.js</tspan>
+<tspan x="10" y="2314">142.  2017-04-11 16:37:32 +0000    10140 bytes  test/scale.category.tests.js</tspan>
+<tspan x="10" y="2330">143.  2017-04-11 16:37:32 +0000    18299 bytes  test/scale.linear.tests.js</tspan>
+<tspan x="10" y="2346">144.  2017-04-11 16:37:32 +0000    18806 bytes  test/scale.logarithmic.tests.js</tspan>
+<tspan x="10" y="2362">145.  2017-04-11 16:37:32 +0000    10661 bytes  test/scale.radialLinear.tests.js</tspan>
+<tspan x="10" y="2378">146.  2017-04-11 16:37:32 +0000    14283 bytes  test/scale.time.tests.js</tspan>
+<tspan x="10" y="2394">147.  2017-04-11 16:37:32 +0000       64 bytes  thankyou.md</tspan>
 </text>
 </svg>
