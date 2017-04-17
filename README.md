@@ -1,7 +1,7 @@
 # test coverage for  [chart.js (v2.5.0)](http://www.chartjs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-chart.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chart.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chart.js.svg)](https://travis-ci.org/npmtest/node-npmtest-chart.js)
 #### Simple HTML5 charts using the canvas element.
 
-[![NPM](https://nodei.co/npm/chart.js.png?downloads=true)](https://www.npmjs.com/package/chart.js)
+[![NPM](https://nodei.co/npm/chart.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/chart.js)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-chart.js/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-chart.js/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-chart.js/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-chart.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-chart.js/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-chart.js/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-chart.js/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-chart.js/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-chart.js/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-chart.js/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-chart.js%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-chart.js/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-chart.js/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-chart.js/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-chart.js/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-chart.js%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-chart.js/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-chart.js/build/test-report.html](https://npmtest.github.io/node-npmtest-chart.js/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-chart.js/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-chart.js/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-chart.js/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-chart.js/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-chart.js/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-chart.js/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-chart.js/build/screenCapture.npmPackageListing.svg)
 
@@ -78,25 +84,20 @@
     "main": "src/chart.js",
     "maintainers": [
         {
-            "name": "chartjs-ci",
-            "email": "chartjs-ci@abysscorp.org"
+            "name": "chartjs-ci"
         },
         {
-            "name": "etimberg",
-            "email": "evert.timberg+npm@gmail.com"
+            "name": "etimberg"
         },
         {
-            "name": "nnnick",
-            "email": "hello@nickdownie.com"
+            "name": "nnnick"
         },
         {
-            "name": "tannerlinsley",
-            "email": "tannerlinsley@gmail.com"
+            "name": "tannerlinsley"
         }
     ],
     "name": "chart.js",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/chartjs/Chart.js.git"
