@@ -1,4 +1,7 @@
-# test coverage for  [chart.js (v2.5.0)](http://www.chartjs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-chart.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chart.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chart.js.svg)](https://travis-ci.org/npmtest/node-npmtest-chart.js)
+# npmtest-chart.js
+
+#### basic test coverage for  [chart.js (v2.5.0)](http://www.chartjs.org)  [![npm package](https://img.shields.io/npm/v/npmtest-chart.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-chart.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-chart.js.svg)](https://travis-ci.org/npmtest/node-npmtest-chart.js)
+
 #### Simple HTML5 charts using the canvas element.
 
 [![NPM](https://nodei.co/npm/chart.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/chart.js)
@@ -32,14 +35,16 @@
 ```json
 
 {
-    "bugs": {
-        "url": "https://github.com/chartjs/Chart.js/issues"
-    },
-    "dependencies": {
-        "chartjs-color": "^2.0.0",
-        "moment": "^2.10.6"
-    },
+    "name": "chart.js",
+    "homepage": "http://www.chartjs.org",
     "description": "Simple HTML5 charts using the canvas element.",
+    "version": "2.5.0",
+    "license": "MIT",
+    "main": "src/chart.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chartjs/Chart.js.git"
+    },
     "devDependencies": {
         "browserify": "^13.0.0",
         "browserify-istanbul": "^0.2.1",
@@ -73,40 +78,14 @@
         "watchify": "^3.7.0",
         "yargs": "^5.0.0"
     },
-    "directories": {},
-    "dist": {
-        "shasum": "fe6e751a893769f56e72bee5ad91207e1c592957",
-        "tarball": "https://registry.npmjs.org/chart.js/-/chart.js-2.5.0.tgz"
-    },
-    "gitHead": "06467f50b74875d54bac4793ef82f410c633cf8a",
-    "homepage": "http://www.chartjs.org",
-    "license": "MIT",
-    "main": "src/chart.js",
-    "maintainers": [
-        {
-            "name": "chartjs-ci"
-        },
-        {
-            "name": "etimberg"
-        },
-        {
-            "name": "nnnick"
-        },
-        {
-            "name": "tannerlinsley"
-        }
-    ],
-    "name": "chart.js",
-    "optionalDependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/chartjs/Chart.js.git"
-    },
-    "scripts": {},
     "spm": {
         "main": "Chart.js"
     },
-    "version": "2.5.0"
+    "dependencies": {
+        "chartjs-color": "^2.0.0",
+        "moment": "^2.10.6"
+    },
+    "bin": {}
 }
 ```
 
